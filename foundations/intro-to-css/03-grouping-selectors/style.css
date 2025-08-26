@@ -5,16 +5,17 @@
 `Helvetica` and `Times New Roman`, with `sans-serif` as a fallback
 */
 
-.clicky {
+.left,
+.right{
     font-size: 28px;
     font-family: Helvetica, 'Times New Roman', sans-serif;
 }
 
-.clicky.left {
+.left {
     background-color: black;
     color: white;
 }
 
-.clicky.right {
+.right {
     background-color: yellow;
 }
